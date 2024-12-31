@@ -6,7 +6,7 @@ Juda ko'p universitet va o'quv markazlarda ta'lim olayotgan yoshlar C++ dasturla
 
 Ushbu kitob mutlaqo bepul bo'lib, sizga C++ tilini o'rganishda darslik vazifasini o'taydi.
 
-Imkoniyati borlar muallifga donat qilishi mumkin:
+Donat qilish uchun:
 
 Humo: <code>9860 1766 0175 5224</code>
 
