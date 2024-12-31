@@ -1,4 +1,4 @@
-# Matnni chop etish
+# Chiqarish (matnni chop etish)
 
 `cout` obyekti `<<` operatori bilan birgalikda qiymatlarni chiqarish/matnni chop etish uchun ishlatiladi.
 

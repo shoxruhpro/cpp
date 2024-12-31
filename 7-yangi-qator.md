@@ -45,7 +45,7 @@ int main() {
 >
 > Yangi qator belgisi (\n) escape sequence (eskeyp-sikuens) deb ataladi. U kursor pozitsiyasini ekrandagi keyingi qator boshiga o'zgartirishga majbur qiladi. Bu yangi qator natijasini beradi.
 >
-> Boshqa maxsus tartiblarga misollar:
+> Yana shu kabilarga misollar:
 >
 > <table>
 >   <tr>
