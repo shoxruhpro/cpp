@@ -48,7 +48,7 @@ Bu eski bo'lishiga qaramay, juda mashxur til. Mashxurligining asosiy sababi ko'p
 
 ## C va C++ o'rtasidagi farq
 
-- C++ bu C tilining kengaytirilgan ko'rinishi sifatida ishlab chiqilgan va ikkalasi ham o'xshash sintaksisga ega.
+- C++ bu C tilining kengaytmasi sifatida ishlab chiqilgan va ikkalasi ham o'xshash sintaksisga ega.
 - C++ klass va obyekt degan narsalarni qo'llasa, C tilida bular yo'q.
 
 ## Nimadan boshlash kerak?
