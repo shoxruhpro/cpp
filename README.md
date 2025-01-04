@@ -1,15 +1,10 @@
-<h1>Darslik haqida</h1>
+# Loyiha vaqtincha to'xtatildi
 
-Assalomu alaykum! Mening ismim Shoxruh.
+Quyidagi saytda C dasturlash tilini o'rganishingiz mumkin:
+https://edulink.gitbook.io/c
 
-Juda ko'p universitet va o'quv markazlarda ta'lim olayotgan yoshlar C++ dasturlash tilini o'rganishda qiyinchiliklarga duch keladi.
+## Darslik haqida
 
-Ushbu kitob mutlaqo bepul bo'lib, sizga C++ tilini o'rganishda darslik vazifasini o'taydi.
+Ushbu bepul darslik sizga zamonaviy C++ tilida dasturlashni o'rgatishga bag'ishlangan. Bu yerdagi darslar sizga C++ dasturlarini yozish, kompilyatsiya qilish va xatolarni taxlil qilish uchun zarur bo'lgan barcha bosqichlarni o'rgatadi. Dasturlashni noldan o'rganishni boshlaganlar ham turli darajadagi dasturchilar ham ushbu darslikdan foydalanishi mumkin.
 
-Telegram: https://t.me/edulink_community/3
-
-Donat qilish uchun:
-
-Humo: <code>9860 1766 0175 5224</code>
-
-Visa: <code>4023 0601 4313 7643</code>
+Bir kechada mutaxassis bo'lib qolmaysiz, lekin biroz sabr-toqat bilan bunga erisha olasiz. Ushbu darslik bunda sizga yordam beradi.
